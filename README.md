@@ -9,6 +9,7 @@
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-s26/jpa02-cgaucho
+  https://jpa02-schoolkris08.dokku-15.cs.ucsb.edu/
 
 Repo: https://ucsb-cs156-s26/STARTER-jpa02
 
